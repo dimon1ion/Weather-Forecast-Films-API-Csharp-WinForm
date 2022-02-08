@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather Forecast API Csharp WinForm", "Weather Forecast API Csharp WinForm\Weather Forecast API Csharp WinForm.csproj", "{601C1A16-FAD9-4742-BFA4-48CDD016DB63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601C1A16-FAD9-4742-BFA4-48CDD016DB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601C1A16-FAD9-4742-BFA4-48CDD016DB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601C1A16-FAD9-4742-BFA4-48CDD016DB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601C1A16-FAD9-4742-BFA4-48CDD016DB63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FCC85D8-60B3-4E66-A3E9-3B3CCF96BC1D}
+	EndGlobalSection
+EndGlobal
